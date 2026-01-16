@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "The Bitter Lesson for Agentic AI: Why Simple Scales and Clever Breaks"
-date: 2026-01-16 15:00:00 +0800
+date: 2026-01-13 15:00:00 +0800
 categories: [blog]
 tags: [Agentic AI, github-pages]
 ---
@@ -313,6 +313,6 @@ That's the bitter lesson.
 
 ---
 
-**Next in this series:** "The Tool Use Fallacy: Why Your Elegant API Design Makes Agents Worse"
+**Next in this series:** "Building Reliable Agentic AI Systems: Lessons from Production"
 
 **What bitter lessons have you learned building agentic AI? I'd love to hear about the clever things you deleted and the simple things that worked.** [stone.chenlei@gmail.com]
