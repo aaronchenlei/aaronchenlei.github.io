@@ -3,7 +3,7 @@ layout: post
 title: "The Bitter Lesson for Agentic AI: Why Simple Scales and Clever Breaks"
 date: 2026-01-13 15:00:00 +0800
 categories: [blog]
-tags: [Agentic AI, github-pages]
+tags: [Agentic AI, Agent Engineering, MCP, Prompt Engineer, Context ngineer]
 ---
 
 When I started building my first agentic AI system, I thought I understood Richard Sutton's "The Bitter Lesson". I'd read it. I'd nodded along. I'd even cited it in discussions about the triumph of scale over hand-crafted features.

@@ -3,9 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# About This Blog
 
-## Bitter Lessons in Agentic AI
+## About This Blog "Bitter Lessons in Agentic AI"
 ### A Builder's Journey from the Trenches
 
 Hard-won lessons from building production agentic AI systems. This blog shares practical insights on tool use, multi-step reasoning, error recovery, and architectural patterns for autonomous AI agents. Topics span prompt engineering, system design, and deployment challenges in real-world environments. Like Sutton's "The Bitter Lesson" revealed fundamental truths about AI research, these field notes explore what actually works when building LLM-based agents. For ML engineers and AI builders.
@@ -56,11 +55,16 @@ If you're building agents, you'll develop your own bitter lessons. I hope readin
 
 ## About the Author
 
-[Add your bio here - background in ML/AI, what systems you've built, why you're qualified to share these lessons]
+With two decades of software engineering experience and a decade specializing in ML/AI development, I've witnessed the evolution of artificial intelligence from academic curiosity to production reality. Currently, I'm building agentic AI systems for the telecommunications vertical—where reliability, scale, and real-world constraints aren't optional.
+
+My journey spans traditional software architecture, machine learning pipelines, and now the emerging frontier of autonomous AI agents. The lessons shared here come from production deployments, failed experiments, and the hard-earned wisdom of shipping AI systems that actually work in the field. In telecom, where systems must handle millions of transactions with minimal downtime, I've learned that elegant theories meet their match in operational reality.
+
+This blog is my way of paying forward the knowledge I wish I had when I started building agentic systems—unfiltered insights from someone still learning, still failing, and still fascinated by what's possible when AI agents meet real-world complexity.
 
 ## Connect
 
-[Add your contact info, social media, GitHub, etc.]
+github: https://github.com/aaronchenlei
+email: [brothersczzl@outlook.com](mailto:brothersczzl@outlook.com).
 
 ---
 
