@@ -227,7 +227,34 @@ For agentic AI, this translates to:
 Don't encode your algorithm. Provide clear tools and objectives. Let reasoning emerge.
 
 ### 2. **Simplify Your Architecture**
-Every hard-coded decision is a bet that you know better than the model. You probably don't.
+Every complex component should justify its existence. Start simple. Add complexity only when simple fails.
+
+### 3. **Enable Iteration Over Prevention**
+Build for recovery, not perfection. Let agents learn from mistakes.
+
+### 4. **Scale Context Before Compressing**
+Use full information. Compress only when necessary.
+
+### 5. **Invest in Data Quality**
+Clean tools, clear examples, good documentation > clever prompts.
+
+## The Meta-Lesson
+
+The bitter lesson applies to building agentic AI itself. I wanted to be clever. I wanted my engineering expertise to matter. I wanted to build something sophisticated.
+
+But the agents that worked best were the ones where I got out of the way.
+
+This doesn't mean "don't engineer." It means: **engineer the environment, not the behavior.** Build great tools. Provide clear information. Create good feedback loops. Then let the model's general reasoning do its thing.
+
+It's bitter because it's humbling. But it's also liberating.
+
+You don't have to predict every edge case. You don't have to encode every heuristic. You don't have to be clever.
+
+You just have to build a good environment and trust the scale.
+
+---
+
+*What's your experience? Have you found yourself over-engineering agentic systems? I'd love to hear your bitter lessons.*y hard-coded decision is a bet that you know better than the model. You probably don't.
 
 ### 3. **Invest in Foundations, Not Clever Tricks**
 - Clear tool interfaces > sophisticated orchestration
