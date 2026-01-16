@@ -393,5 +393,5 @@ Simplicity is still the goal. But production-ready simplicity requires thoughtfu
 
 ---
 
-**What's been your biggest challenge deploying agentic systems? I'd love to hear what patterns have worked for you.I'd love to hear about the clever things you deleted and the simple things that worked.** [stone.chenlei@gmail.com]
+*What's been your biggest challenge deploying agentic systems? Share your experiences and the patterns that worked for you at [brothersczzl@outlook.com](mailto:brothersczzl@outlook.com).*
 

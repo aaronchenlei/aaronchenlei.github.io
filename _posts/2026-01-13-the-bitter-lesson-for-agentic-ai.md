@@ -311,4 +311,4 @@ That's the bitter lesson.
 
 **Next in this series:** "Building Reliable Agentic AI Systems: Lessons from Production"
 
-**What bitter lessons have you learned building agentic AI? I'd love to hear about the clever things you deleted and the simple things that worked.** [stone.chenlei@gmail.com]
+*What bitter lessons have you learned building agentic AI? I'd love to hear about the clever things you deleted and the simple things that worked. Share your thoughts at [brothersczzl@outlook.com](mailto:brothersczzl@outlook.com).*
