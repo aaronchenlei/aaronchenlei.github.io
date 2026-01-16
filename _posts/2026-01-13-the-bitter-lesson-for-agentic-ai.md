@@ -3,6 +3,7 @@ layout: post
 title: "The Bitter Lesson for Agentic AI: Why Simple Scales and Clever Breaks"
 date: 2026-01-13 15:00:00 +0800
 categories: [blog]
+comments: true
 tags: [Agentic AI, Agent Engineering, MCP, Prompt Engineer, Context ngineer]
 ---
 
@@ -311,4 +312,4 @@ That's the bitter lesson.
 
 **Next in this series:** "Building Reliable Agentic AI Systems: Lessons from Production"
 
-*What bitter lessons have you learned building agentic AI? I'd love to hear about the clever things you deleted and the simple things that worked. Share your thoughts at [brothersczzl@outlook.com](mailto:brothersczzl@outlook.com).*
+*What bitter lessons have you learned building agentic AI? I'd love to hear about the clever things you deleted and the simple things that worked. Share your thoughts in the comments.*
