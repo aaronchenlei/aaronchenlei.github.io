@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aaron Chen # the main title
+title: Bitter Lessons in Agentic AI # the main title
 
-tagline: Think different # it will display as the subtitle
+tagline: A Builder's Journey from the Trenches # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Practical lessons from building production agentic AI systems, in the spirit of Sutton's "The Bitter Lesson." Insights on tool use, multi-step reasoning, error recovery, prompt engineering, and system design for autonomous AI agents that act in real-world environments. Written for ML engineers, AI researchers, and builders working with LLM-based autonomous systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
