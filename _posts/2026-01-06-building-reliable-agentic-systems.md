@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Reliable Agentic AI Systems: Lessons from Production"
-date: 2026-01-16 10:00:00 +0800
+date: 2026-01-06 10:00:00 +0800
 categories: [blog]
 comments: true
 tags: [Agentic AI, Production, Reliability]

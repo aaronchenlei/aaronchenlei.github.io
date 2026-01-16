@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "The Bitter Lesson for Agentic AI: Why Simple Scales and Clever Breaks"
-date: 2026-01-13 15:00:00 +0800
+date: 2026-01-03 15:00:00 +0800
 categories: [blog]
 comments: true
 tags: [Agentic AI, Agent Engineering, MCP, Prompt Engineer, Context ngineer]
