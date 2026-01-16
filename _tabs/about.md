@@ -12,7 +12,7 @@ Hard-won lessons from building production agentic AI systems. This blog shares p
 
 ## Why "Bitter Lessons"?
 
-In 2019, Richard Sutton published ["The Bitter Lesson,"](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) a short but profound essay that shook the AI research community. His central thesis was humbling: **the biggest breakthroughs in AI came not from cleverly encoding human knowledge, but from leveraging computation and learning at scale.**
+In 2019, Richard Sutton published "The Bitter Lesson", a short but profound essay that shook the AI research community. His central thesis was humbling: **the biggest breakthroughs in AI came not from cleverly encoding human knowledge, but from leveraging computation and learning at scale.**
 
 Sutton's lesson was "bitter" because it challenged researchers to abandon what felt intellectually satisfying—elegant hand-crafted features, carefully designed representations, domain expertise encoded into systems. Instead, history showed that general methods that scale with computation (search, learning) always won in the long run.
 
