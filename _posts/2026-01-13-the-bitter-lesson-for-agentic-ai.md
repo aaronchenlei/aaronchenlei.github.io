@@ -6,10 +6,6 @@ categories: [blog]
 tags: [Agentic AI, github-pages]
 ---
 
-# The Bitter Lesson for Agentic AI: Why Simple Scales and Clever Breaks
-
-*January 2026*
-
 When I started building my first agentic AI system, I thought I understood Richard Sutton's "The Bitter Lesson". I'd read it. I'd nodded along. I'd even cited it in discussions about the triumph of scale over hand-crafted features.
 
 But I didn't *really* understand it until my carefully engineered agent crashed in production for the third time that week.

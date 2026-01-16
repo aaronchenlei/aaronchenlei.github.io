@@ -6,10 +6,6 @@ categories: [blog]
 tags: [Agentic AI, Production, Reliability]
 ---
 
-# Building Reliable Agentic AI Systems: Lessons from Production
-
-*January 2026*
-
 After my [previous post](/posts/the-bitter-lesson-for-agentic-ai/) about applying Sutton's Bitter Lesson to agentic AI, several people asked: "Okay, but how do you actually build these systems for production?"
 
 Fair question. Simplicity is great in theory. But production has requirements that demos don't: reliability, observability, cost control, and the ability to debug when things go wrong at 3 AM.
